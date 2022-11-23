@@ -51,6 +51,16 @@ CRUD(생성/읽기/수정/삭제) 작업을 진행한다. URI(Uniform Resource I
 - 저장공간이 크고, 시스템 리소스를 많이 사용한다.
 도큐먼트 수정과 삭제 비용이 저렴하지 않다. 따라서 엘라스틱 서치는 주로 대용량 데이터에 대한 빠른 검색과 집계가 필요한 경우 사용한다.
 
+## 6. 라이선스
+### 변경 전 
+- Apache License 2.0
+### 변경 후
+- ServerSide Public License 1.0
+- Elastic License 2.0
+### 라이선스 관련 링크
+https://www.elastic.co/kr/pricing/faq/licensing#2021%EB%85%84-%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4-%EB%B3%80%EA%B2%BD-%EA%B4%80%EB%A0%A8-faq
+
+
 
 
 
